@@ -1,6 +1,6 @@
 
 # Hi, I’m Ananaya ✨
-CS major @ USF, full-stack developer in the making, and someone who blends soft aesthetics with powerful tech. I build tools that help people feel supported — from AI study companions to wellness features and intuitive UIs. I love hackathons, thoughtful design, and projects that spark joy and impact.
+CS major @ USF, full-stack developer in the making, and someone who blends soft aesthetics with powerful tech. I build tools that help people feel supported from AI study companions to wellness features and intuitive UIs. I love hackathons, thoughtful design, and projects that spark joy and impact.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ananayeah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananyasood9@gmail.com) 
